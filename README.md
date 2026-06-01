@@ -4,6 +4,7 @@ As someone who loves understanding the underlying systems behind, really anythin
 
 ## The Blog 
 Most of my work revolves around combining business strategy with different mathematical techniques. All my cases can be found in my blog below.
+
 [The Bayesian Bandit](https://thebayesianbandit.com/)
 
 ## Production Code from Cases

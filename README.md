@@ -10,6 +10,7 @@ All my cases can be found in my blog below.
 ## Production Code from Cases
 This is an on-going list of models demonstrated in the business cases in my blog above, but written for production environments as examples.
 
+[Ad relevance model using graph attention](https://github.com/thebayesianbandit/Ad-relevance-graph)
 
 
 
